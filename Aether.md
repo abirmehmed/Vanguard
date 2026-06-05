@@ -72,3 +72,10 @@
 4. **Embrace the Compiler:** When Rust yells at us, we will read the error together. It is our best teacher.
 
 ---
+
+### 🚦 Next Step
+Review this backlog. When you are ready to write the first line of code, reply with:
+
+**"Start Aether Phase 1, Task 1.1"** 
+
+I will provide the exact `cargo` commands, the `Cargo.toml` setup, and your first coding challenge to get the Axum WebSocket server running. Let's build. 🚀
